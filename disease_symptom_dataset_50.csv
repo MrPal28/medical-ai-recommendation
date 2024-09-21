@@ -1,0 +1,51 @@
+Disease,Symptom1,Symptom2,Symptom3
+Heart Attack,Chest Pain,Shortness of Breath,Fatigue
+Hypertension,Headache,Dizziness,Nosebleeds
+Arrhythmia,Palpitations,Fatigue,Dizziness
+Coronary Artery Disease,Shortness of Breath,Chest Pain,Fatigue
+Atherosclerosis,Chest Pain,Leg Pain,Numbness
+Cardiomyopathy,Fatigue,Palpitations,Irregular Heartbeat
+Heart Failure,Swelling in Legs,Shortness of Breath,Nausea
+Pericarditis,Chest Pain,Fever,Cough
+Aortic Aneurysm,Back Pain,Abdominal Pain,Weakness
+Valvular Heart Disease,Shortness of Breath,Fatigue,Swelling
+Asthma,Coughing,Wheezing,Fatigue
+Bronchiolitis,Wheezing,Shortness of Breath,Vomiting
+Pneumonia,Fever,Chest Pain,Sweating
+Whooping Cough,Cough,Vomiting,Fatigue
+Chickenpox,Rash,Fever,Itching
+Measles,Rash,Cough,Runny Nose
+Mumps,Swollen Glands,Fever,Headache
+Croup,Barking Cough,Difficulty Breathing,Hoarseness
+Hand-Foot-Mouth Disease,Fever,Blisters,Rash
+Tonsillitis,Sore Throat,Fever,Trouble Swallowing
+Eczema,Itchy Skin,Redness,Cracked Skin
+Psoriasis,Thickened Skin,Red Patches,Scaly Skin
+Acne,Pimples,Pustules,Swelling
+Rosacea,Facial Redness,Bumps,Flushing
+Melanoma,Dark Spots,Moles,Enlarged Moles
+Contact Dermatitis,Itching,Blisters,Burning
+Fungal Infection,Redness,Peeling Skin,Cracked Skin
+Vitiligo,Skin Discoloration,White Patches,Hair Graying
+Alopecia,Hair Loss,Thinning Hair,Bald Spots
+Hives,Swelling,Red Bumps,Itchy Skin
+Osteoarthritis,Joint Pain,Stiffness,Bone Loss
+Rheumatoid Arthritis,Swollen Joints,Joint Swelling,Joint Deformity
+Osteoporosis,Bone Pain,Loss of Height,Fractures
+Fractures,Severe Pain,Swelling,Bruising
+Sprains,Joint Pain,Swelling,Bruising
+Dislocations,Deformity,Bruising,Pain
+Tendonitis,Pain in Joints,Tenderness,Limited Range of Motion
+Scoliosis,Curved Spine,Back Pain,Hip Pain
+Carpal Tunnel Syndrome,Wrist Pain,Tingling,Weak Grip
+Bone Cancer,Bone Pain,Swelling,Fractures
+Alzheimer’s Disease,Memory Loss,Confusion,Disorientation
+Parkinson’s Disease,Tremors,Slow Movements,Rigidity
+Multiple Sclerosis,Numbness,Fatigue,Muscle Weakness
+Stroke,Weakness,Paralysis,Loss of Balance
+Epilepsy,Seizures,Aura Sensations,Staring Spells
+Migraines,Severe Headache,Nausea,Sensitivity to Light
+Amyotrophic Lateral Sclerosis (ALS),Muscle Weakness,Muscle Twitching,Difficulty Speaking
+Brain Tumor,Seizures,Headache,Blurred Vision
+Guillain-Barré Syndrome,Weakness,Tingling,Loss of Reflexes
+Neuropathy,Numbness,Burning Sensation,Burning
