@@ -23,7 +23,7 @@ data = {
     'DoctorID': [f'Doc{str(i).zfill(3)}' for i in range(1, total_doctors + 1)],  # Unique IDs for doctors
     'Name': doctor_names,  
     'Specialization': random.choices(
-        ['Cardiologist', 'Pediatrician', 'Dermatologist', 'Orthopedic', 'Neurologist'], k=total_doctors),  # Random specializations
+        ['Cardiologist', 'Pediatrician', 'Dermatologist', 'Orthopedic', 'Neurologist','Oncologist','Pulmonologist','Endocrinologist','Gastroenterologist','Nephrologist','Hematologist','Rheumatologist','Infectious Disease Specialist','ENT Specialist','Allergist/Immunologist'], k=total_doctors),  # Random specializations
     'Experience': [random.randint(1, 40) for _ in range(total_doctors)],  # Random experience years between 1 and 40
     'Location': random.choices(indian_cities, k=total_doctors),  # Randomly chosen Indian cities
     'Rating': [round(random.uniform(1, 5), 1) for _ in range(total_doctors)]  # Random ratings between 1.0 and 5.0
