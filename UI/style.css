@@ -1,0 +1,173 @@
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header styles */
+header {
+    padding: 20px;
+    text-align: left;
+}
+
+.header-text {
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 10%, #FFCC70 55%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 2.5rem;
+    /* Responsive font size */
+    font-weight: bold;
+}
+
+/* Main chat container */
+.chat-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.chat-box {
+    width: 100%;
+    max-width: 800px;
+    height: 80%;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    padding: 10px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* User and bot messages */
+.user-message,
+.bot-message {
+    max-width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.user-message {
+    background-color: #333;
+    align-self: flex-start;
+    color: #ddd;
+}
+
+.bot-message {
+    background-color: #444;
+    align-self: flex-end;
+    color: #fff;
+}
+
+.message-content {
+    margin: 0;
+    font-size: 1rem;
+    /* Responsive font size */
+}
+
+/* Footer styles */
+.chat-footer {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.chat-input {
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #444;
+    color: white;
+    font-size: 1rem;
+    /* Responsive font size */
+}
+
+.send-button {
+    padding: 10px 20px;
+    background-color: #ffcc70;
+    border: none;
+    border-radius: 5px;
+    color: #1a1a1a;
+    font-size: 1rem;
+    /* Responsive font size */
+    cursor: pointer;
+}
+
+.send-button:hover {
+    background-color: #ffc047;
+}
+
+/* Scrollbar styling for chat box */
+.chat-box::-webkit-scrollbar {
+    width: 6px;
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+    background-color: #666;
+    border-radius: 10px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .header-text {
+        font-size: 2rem;
+        /* Smaller font size for smaller screens */
+    }
+
+    .chat-footer {
+        flex-direction: column;
+        /* Stack footer elements on smaller screens */
+        align-items: stretch;
+        /* Stretch elements */
+    }
+
+    .chat-input {
+        width: 100%;
+        /* Full width on smaller screens */
+        margin-bottom: 10px;
+        /* Space between input and button */
+    }
+
+    .send-button {
+        width: 100%;
+        /* Full width on smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .header-text {
+        font-size: 1.5rem;
+        /* Even smaller font size for very small screens */
+    }
+
+    .chat-box {
+        height: 70%;
+        /* Adjust height for smaller devices */
+    }
+
+    .user-message,
+    .bot-message {
+        max-width: 90%;
+        /* Allow messages to take more space */
+    }
+
+    .chat-input,
+    .send-button {
+        font-size: 0.9rem;
+        /* Slightly smaller font size */
+    }
+}
