@@ -1,48 +1,41 @@
-// Select necessary DOM elements
 const chatBox = document.querySelector(".chat-box");
 const chatInput = document.querySelector(".chat-input");
 const sendButton = document.querySelector(".send-button");
+const dropdownLinks = document.querySelectorAll(".dropdown-content a");
 
-// Function to create a new message element
-function createMessageElement(message, isUserMessage = true) {
+// Function to create a message
+function createMessage(message, isUser = true) {
   const messageDiv = document.createElement("div");
-  messageDiv.classList.add(isUserMessage ? "user-message" : "bot-message");
-
+  messageDiv.classList.add(isUser ? "user-message" : "bot-message");
+  
   const messageContent = document.createElement("p");
   messageContent.classList.add("message-content");
   messageContent.textContent = message;
-
+  
   messageDiv.appendChild(messageContent);
-  return messageDiv;
+  chatBox.appendChild(messageDiv);
+  chatBox.scrollTop = chatBox.scrollHeight;
 }
 
-// Function to append the message to the chat box
-function appendMessage(message, isUserMessage = true) {
-  const messageElement = createMessageElement(message, isUserMessage);
-  chatBox.appendChild(messageElement);
-  chatBox.scrollTop = chatBox.scrollHeight; // Auto-scroll to the latest message
-}
-
-// Function to handle sending the message
+// Function to send a message
 function sendMessage() {
   const message = chatInput.value.trim();
   if (message) {
-    appendMessage(message, true); // Append user message
-    chatInput.value = ""; // Clear the input field
-
-    // Simulate a bot response after 1 second
-    setTimeout(() => {
-      appendMessage("This is a bot response.", false); // Append bot message
-    }, 1000);
+    createMessage(message, true);
+    chatInput.value = "";
+    setTimeout(() => createMessage("Bot response!", false), 1000);
   }
 }
 
-// Event listener for the send button
+// Event listeners for send button and Enter key
 sendButton.addEventListener("click", sendMessage);
+chatInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") sendMessage();
+});
 
-// Event listener for the "Enter" key
-chatInput.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") {
-    sendMessage();
-  }
+// Event listener for dropdown suggestions
+dropdownLinks.forEach(link => {
+  link.addEventListener("click", (e) => {
+    chatInput.value = e.target.textContent;
+  });
 });
