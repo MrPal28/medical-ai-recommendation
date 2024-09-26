@@ -1,0 +1,601 @@
+DoctorID,Name,Specialization,Diseases,Experience,Location,Rating
+Doc001,Netra Saxena,Allergist/Immunologist,"Allergy, Drug Reaction",33,Bhopal,2.6
+Doc002,Gaurang Balan,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",27,Agra,1.7
+Doc003,Elijah Kohli,Neurologist,"Migraine, Paralysis (brain hemorrhage)",12,Bangalore,3.4
+Doc004,Samuel Dhar,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",12,Mumbai,3.1
+Doc005,Hardik Srinivas,Proctologist,Dimorphic hemorrhoids (piles),33,Bangalore,2
+Doc006,Jalsa Korpal,Urologist,Urinary tract infection,24,Patna,3.7
+Doc007,Ranveer Borah,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",28,Surat,4.8
+Doc008,Guneet Borra,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",34,Ludhiana,2.9
+Doc009,Urmi Kale,Vascular Surgeon,Varicose veins,7,Delhi,1
+Doc010,Peter Tiwari,Rheumatologist,Arthritis,11,Lucknow,4.8
+Doc011,Jeevika Patil,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",10,Kolkata,2.8
+Doc012,Mugdha Kalita,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",10,Surat,1.7
+Doc013,Anay Bal,Rheumatologist,Arthritis,12,Agra,2.9
+Doc014,Bhavna Pingle,Rheumatologist,Arthritis,30,Surat,3.8
+Doc015,Arunima Vala,Neurologist,"Migraine, Paralysis (brain hemorrhage)",15,Nagpur,4.1
+Doc016,Madhavi Dhawan,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",37,Kanpur,1.1
+Doc017,Chandani Sha,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",12,Hyderabad,1.6
+Doc018,Shaurya Dey,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",19,Indore,3.6
+Doc019,Nikita Bahri,Allergist/Immunologist,"Allergy, Drug Reaction",37,Mumbai,4.9
+Doc020,Onkar Badami,Vascular Surgeon,Varicose veins,4,Lucknow,3.7
+Doc021,Leela Minhas,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",17,Ludhiana,3.2
+Doc022,Diya Gulati,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",18,Pune,2.2
+Doc023,Zayan Swamy,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",8,Mumbai,4.7
+Doc024,Dev Varty,Allergist/Immunologist,"Allergy, Drug Reaction",10,Bangalore,2.5
+Doc025,Krishna Saha,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",21,Delhi,3.2
+Doc026,Ekalinga Garg,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",32,Indore,3.9
+Doc027,Hemang Mand,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",24,Indore,2.1
+Doc028,Gautami Verma,Proctologist,Dimorphic hemorrhoids (piles),32,Jaipur,3.6
+Doc029,Warinder Bhandari,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",6,Agra,4.3
+Doc030,Lakshit Karan,Allergist/Immunologist,"Allergy, Drug Reaction",24,Bhopal,4.3
+Doc031,Sathvik Kapadia,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",18,Kolkata,3.6
+Doc032,Finn Tella,Neurologist,"Migraine, Paralysis (brain hemorrhage)",26,Kolkata,3.1
+Doc033,Anita Rastogi,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",7,Ludhiana,4.6
+Doc034,Wyatt Dora,Vascular Surgeon,Varicose veins,39,Bangalore,4.7
+Doc035,Dayamai Saxena,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",22,Mumbai,3.9
+Doc036,Arunima Lanka,Allergist/Immunologist,"Allergy, Drug Reaction",35,Ludhiana,1.3
+Doc037,Sara Anne,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",24,Patna,3.2
+Doc038,Oeshi Salvi,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",19,Chennai,4.3
+Doc039,Anya Lad,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",15,Delhi,4.5
+Doc040,Qarin Gokhale,Rheumatologist,Arthritis,14,Hyderabad,2.9
+Doc041,Yahvi Deo,Rheumatologist,Arthritis,32,Bhopal,2.4
+Doc042,Aahana Pant,Urologist,Urinary tract infection,25,Surat,4.9
+Doc043,Jai Doctor,Proctologist,Dimorphic hemorrhoids (piles),35,Indore,2.1
+Doc044,Reyansh Gala,Proctologist,Dimorphic hemorrhoids (piles),20,Lucknow,4.5
+Doc045,Ishani Mangat,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",7,Kanpur,2.3
+Doc046,Tristan Pau,Vascular Surgeon,Varicose veins,8,Jaipur,4.1
+Doc047,Reyansh Bhandari,Vascular Surgeon,Varicose veins,2,Agra,2.1
+Doc048,Chanakya Sethi,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",21,Kolkata,4
+Doc049,Chandresh Srivastava,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",5,Chennai,2.7
+Doc050,Damyanti Chaudry,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",7,Mumbai,2
+Doc051,Raagini Sabharwal,Rheumatologist,Arthritis,19,Chennai,4.7
+Doc052,Ekavir Sastry,Rheumatologist,Arthritis,7,Jaipur,3.9
+Doc053,Aarna Subramanian,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",10,Ludhiana,4.4
+Doc054,Hemal Krishna,Rheumatologist,Arthritis,21,Patna,3.9
+Doc055,Arya Dua,Neurologist,"Migraine, Paralysis (brain hemorrhage)",20,Delhi,3.6
+Doc056,Meera Lal,Vascular Surgeon,Varicose veins,14,Mumbai,1.1
+Doc057,Darpan Ramachandran,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",25,Jaipur,3.1
+Doc058,Nimrat Subramanian,Cardiologist,"Hypertension, Heart attack",40,Kolkata,2.3
+Doc059,Falan Chakraborty,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",23,Agra,2.9
+Doc060,Frado Maharaj,Cardiologist,"Hypertension, Heart attack",22,Hyderabad,3.5
+Doc061,Faraj Ganesh,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",3,Patna,1
+Doc062,Aishani Tak,Neurologist,"Migraine, Paralysis (brain hemorrhage)",40,Kanpur,2.2
+Doc063,Isaiah Bains,Urologist,Urinary tract infection,22,Bhopal,1.7
+Doc064,Vanya Balan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",40,Agra,2.2
+Doc065,Chameli Dhingra,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",36,Delhi,3.3
+Doc066,Andrew Varma,Allergist/Immunologist,"Allergy, Drug Reaction",25,Ahmedabad,4
+Doc067,Qushi Sibal,Allergist/Immunologist,"Allergy, Drug Reaction",36,Ahmedabad,2.1
+Doc068,Advik Balakrishnan,Cardiologist,"Hypertension, Heart attack",23,Ludhiana,2.5
+Doc069,Odika Sandal,Urologist,Urinary tract infection,39,Agra,3.7
+Doc070,Yagnesh Raj,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",24,Surat,4.7
+Doc071,Chanchal Chaudhari,Cardiologist,"Hypertension, Heart attack",26,Kanpur,1.5
+Doc072,Harinakshi De,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",23,Bhopal,4.1
+Doc073,Anvi Misra,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",18,Kanpur,4.5
+Doc074,Ekaraj Srivastava,Vascular Surgeon,Varicose veins,11,Jaipur,1.4
+Doc075,Nilima Bassi,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",27,Hyderabad,4.5
+Doc076,Kamala Pillai,Urologist,Urinary tract infection,24,Agra,3.6
+Doc077,Libni Bhatnagar,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",30,Lucknow,2.3
+Doc078,Mitali Kohli,Urologist,Urinary tract infection,40,Hyderabad,3.7
+Doc079,Hema Narasimhan,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",34,Mumbai,1.6
+Doc080,Yashodhara Yogi,Neurologist,"Migraine, Paralysis (brain hemorrhage)",37,Bangalore,1.4
+Doc081,Samaksh Nadig,Proctologist,Dimorphic hemorrhoids (piles),5,Kolkata,2.8
+Doc082,Falak Hora,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",35,Surat,4.2
+Doc083,Watika Dubey,Allergist/Immunologist,"Allergy, Drug Reaction",6,Pune,4.4
+Doc084,Janya Gera,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",8,Lucknow,1.6
+Doc085,Xalak Bhatia,Vascular Surgeon,Varicose veins,6,Hyderabad,4
+Doc086,Zaitra Bera,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",27,Nagpur,3.4
+Doc087,Vritti Menon,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",38,Bangalore,4.4
+Doc088,Damyanti Sha,Urologist,Urinary tract infection,19,Indore,4.3
+Doc089,Barkha Sharaf,Neurologist,"Migraine, Paralysis (brain hemorrhage)",13,Patna,4.7
+Doc090,Ridhi Dhingra,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",33,Agra,3.6
+Doc091,Yash Savant,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",39,Pune,1.5
+Doc092,Kashish Sanghvi,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",22,Agra,2.2
+Doc093,Arjun Sarkar,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",22,Mumbai,2.7
+Doc094,Brinda Mann,Allergist/Immunologist,"Allergy, Drug Reaction",24,Agra,1.5
+Doc095,Zehaan Raj,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",11,Jaipur,1.3
+Doc096,Amara Padmanabhan,Rheumatologist,Arthritis,9,Lucknow,2
+Doc097,Abeer Taneja,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",20,Pune,2.6
+Doc098,Damini Patla,Urologist,Urinary tract infection,21,Bhopal,2.9
+Doc099,Naksh Minhas,Rheumatologist,Arthritis,25,Bangalore,1.6
+Doc100,Shivansh Samra,Urologist,Urinary tract infection,12,Chennai,2.4
+Doc101,Ekiya Wason,Neurologist,"Migraine, Paralysis (brain hemorrhage)",4,Kolkata,3.9
+Doc102,Naksh Sangha,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",12,Kanpur,3.2
+Doc103,Mekhala Vaidya,Vascular Surgeon,Varicose veins,7,Bhopal,2.8
+Doc104,Chasmum Agrawal,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",40,Jaipur,2.8
+Doc105,Radha Ramesh,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",13,Bhopal,2.5
+Doc106,Ishita Saraf,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",26,Chennai,3.9
+Doc107,Jeet Bawa,Rheumatologist,Arthritis,30,Lucknow,4.1
+Doc108,Devansh Karnik,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",11,Bangalore,3.6
+Doc109,Radhika Gaba,Proctologist,Dimorphic hemorrhoids (piles),27,Ludhiana,4.1
+Doc110,Yatin Ganesan,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",1,Agra,3.8
+Doc111,Zansi Loke,Vascular Surgeon,Varicose veins,20,Pune,2.8
+Doc112,Mohini Gandhi,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",1,Patna,2.6
+Doc113,Owen Sahni,Vascular Surgeon,Varicose veins,4,Indore,4.2
+Doc114,Sachi Oak,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",2,Hyderabad,4.1
+Doc115,Zarna Nayar,Neurologist,"Migraine, Paralysis (brain hemorrhage)",30,Chennai,3
+Doc116,Ganga Comar,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",33,Indore,2.7
+Doc117,Hemal Soman,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",36,Bhopal,2
+Doc118,Warjas Kapadia,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",34,Lucknow,4.7
+Doc119,Xavier Vaidya,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",11,Indore,1
+Doc120,Mohammed Raja,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",27,Delhi,2.9
+Doc121,Nidhi Lalla,Urologist,Urinary tract infection,40,Lucknow,3.7
+Doc122,Azad Das,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",12,Chennai,4.7
+Doc123,Madhav Mannan,Allergist/Immunologist,"Allergy, Drug Reaction",13,Patna,2.4
+Doc124,Jhalak Kara,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",8,Kanpur,2.2
+Doc125,Wazir Barad,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",37,Agra,3.8
+Doc126,Kavya Sethi,Neurologist,"Migraine, Paralysis (brain hemorrhage)",5,Ahmedabad,3.4
+Doc127,Sathvik Sheth,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",30,Indore,3.3
+Doc128,Faras Sharaf,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",31,Chennai,4.6
+Doc129,Samuel Srinivas,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",33,Ludhiana,1.5
+Doc130,Yamini Murthy,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",15,Hyderabad,1.9
+Doc131,Sudiksha Kulkarni,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",28,Delhi,2.4
+Doc132,Lila Rastogi,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",16,Mumbai,2.8
+Doc133,Orinder Khalsa,Rheumatologist,Arthritis,9,Nagpur,4.2
+Doc134,Brijesh Garg,Allergist/Immunologist,"Allergy, Drug Reaction",8,Surat,2.9
+Doc135,Abha Venkataraman,Neurologist,"Migraine, Paralysis (brain hemorrhage)",19,Delhi,2.8
+Doc136,Harshil Golla,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",4,Bhopal,2.3
+Doc137,Charan Seshadri,Proctologist,Dimorphic hemorrhoids (piles),19,Surat,4.8
+Doc138,Kai Kanda,Allergist/Immunologist,"Allergy, Drug Reaction",19,Ludhiana,3.2
+Doc139,Aadhya Mani,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",12,Chennai,4.4
+Doc140,Warda Contractor,Cardiologist,"Hypertension, Heart attack",4,Kanpur,3.4
+Doc141,Zarna Dar,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",40,Agra,4.1
+Doc142,Kabir Sibal,Cardiologist,"Hypertension, Heart attack",40,Patna,3.2
+Doc143,Hemani Chandran,Neurologist,"Migraine, Paralysis (brain hemorrhage)",15,Kanpur,1.2
+Doc144,Parth Toor,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",32,Lucknow,2.1
+Doc145,Yuvraj Parikh,Urologist,Urinary tract infection,10,Ludhiana,2.2
+Doc146,Zinal Rajagopalan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",19,Kanpur,4
+Doc147,Teerth Sharma,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",13,Chennai,3.1
+Doc148,Ishwar Mane,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",1,Chennai,4.3
+Doc149,Ubika Tella,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",15,Ludhiana,4.9
+Doc150,Idika Mahajan,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",22,Kolkata,1.2
+Doc151,Oeshi Baria,Cardiologist,"Hypertension, Heart attack",39,Ahmedabad,2
+Doc152,Vasana Chaudhary,Cardiologist,"Hypertension, Heart attack",20,Jaipur,4.7
+Doc153,Logan Din,Vascular Surgeon,Varicose veins,6,Pune,4.5
+Doc154,Sneha Aggarwal,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",5,Delhi,1.4
+Doc155,Tejas Som,Vascular Surgeon,Varicose veins,18,Delhi,5
+Doc156,Simon Ganesh,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",38,Mumbai,2.4
+Doc157,Caleb Bhattacharyya,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",8,Kolkata,3.2
+Doc158,Victor Roy,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",7,Pune,4
+Doc159,Anjali Dhawan,Cardiologist,"Hypertension, Heart attack",33,Agra,2.5
+Doc160,Bina Panchal,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",20,Mumbai,4.2
+Doc161,Ayaan Mohan,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",27,Lucknow,4.2
+Doc162,Chameli Sood,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",36,Delhi,4.2
+Doc163,Girish Tara,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",21,Pune,1.5
+Doc164,Chaitaly Uppal,Urologist,Urinary tract infection,6,Bhopal,4.9
+Doc165,Anvi Seth,Urologist,Urinary tract infection,22,Lucknow,2.7
+Doc166,Yashodhara Narasimhan,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",18,Pune,3.6
+Doc167,Rachit Sami,Allergist/Immunologist,"Allergy, Drug Reaction",17,Surat,4.6
+Doc168,Dayamai Sethi,Neurologist,"Migraine, Paralysis (brain hemorrhage)",36,Indore,4.7
+Doc169,Chakrika Wagle,Vascular Surgeon,Varicose veins,34,Mumbai,3.4
+Doc170,Darpan Pandit,Cardiologist,"Hypertension, Heart attack",36,Nagpur,4.2
+Doc171,Anamika Lanka,Allergist/Immunologist,"Allergy, Drug Reaction",10,Delhi,1.2
+Doc172,Varenya Gandhi,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",1,Pune,2.4
+Doc173,Vedika Sura,Vascular Surgeon,Varicose veins,16,Agra,4.3
+Doc174,Dalaja Dutta,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",34,Chennai,4.6
+Doc175,Vritti Joshi,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",39,Nagpur,2.5
+Doc176,Azaan Chaudhary,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",5,Jaipur,3.3
+Doc177,Yashica Sur,Urologist,Urinary tract infection,27,Hyderabad,3.3
+Doc178,Rayaan Biswas,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",37,Bhopal,1.4
+Doc179,Azaan Iyengar,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",5,Mumbai,4.2
+Doc180,Zayan Solanki,Neurologist,"Migraine, Paralysis (brain hemorrhage)",38,Kanpur,2.8
+Doc181,Lipika Upadhyay,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",30,Mumbai,2.8
+Doc182,Aditya Thaman,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",26,Surat,2.9
+Doc183,Finn Roy,Vascular Surgeon,Varicose veins,7,Kanpur,2.9
+Doc184,Nidhi Wadhwa,Urologist,Urinary tract infection,21,Delhi,1.4
+Doc185,Hemang Naik,Allergist/Immunologist,"Allergy, Drug Reaction",39,Hyderabad,3.2
+Doc186,Omkaar Chacko,Vascular Surgeon,Varicose veins,11,Bangalore,3.9
+Doc187,Nimrat Sarna,Urologist,Urinary tract infection,8,Surat,2.5
+Doc188,Vasana Trivedi,Vascular Surgeon,Varicose veins,17,Chennai,1.5
+Doc189,Ekantika Bhandari,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",19,Nagpur,1.3
+Doc190,Raghav Pall,Neurologist,"Migraine, Paralysis (brain hemorrhage)",32,Agra,4.4
+Doc191,Anvi Soni,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",28,Pune,3.9
+Doc192,Janya Sampath,Urologist,Urinary tract infection,34,Bangalore,3.5
+Doc193,Manan Mane,Proctologist,Dimorphic hemorrhoids (piles),28,Ludhiana,1.4
+Doc194,Sneha Chopra,Urologist,Urinary tract infection,32,Chennai,3.6
+Doc195,Brijesh Setty,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",8,Ludhiana,1.9
+Doc196,Yatan Gandhi,Vascular Surgeon,Varicose veins,40,Hyderabad,2
+Doc197,Vritti Kanda,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",2,Surat,1.4
+Doc198,Samar Soni,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",7,Pune,4.3
+Doc199,Dayamai Badami,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",34,Bhopal,4.4
+Doc200,Naveen Narasimhan,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",10,Bhopal,2
+Doc201,Ganga Chokshi,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",26,Delhi,4.4
+Doc202,Qarin Wable,Proctologist,Dimorphic hemorrhoids (piles),20,Nagpur,4.2
+Doc203,Yochana Sachar,Rheumatologist,Arthritis,12,Delhi,4.5
+Doc204,Manya Shere,Rheumatologist,Arthritis,19,Indore,4.1
+Doc205,Arjun Subramaniam,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",38,Indore,1.3
+Doc206,Widisha Doshi,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",36,Chennai,3.5
+Doc207,Laban Sarma,Urologist,Urinary tract infection,12,Ahmedabad,4.9
+Doc208,Riya Sawhney,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",9,Nagpur,3.3
+Doc209,Widisha Goda,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",14,Hyderabad,5
+Doc210,Ekbal Borde,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",11,Kolkata,4.1
+Doc211,Yadavi Muni,Cardiologist,"Hypertension, Heart attack",3,Surat,1.6
+Doc212,Zayyan Shankar,Vascular Surgeon,Varicose veins,20,Hyderabad,4.3
+Doc213,Chameli Seth,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",6,Kanpur,4.9
+Doc214,Anya Nagy,Cardiologist,"Hypertension, Heart attack",35,Hyderabad,1.2
+Doc215,Radhika Doshi,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",10,Bangalore,3.8
+Doc216,Rudra Sahni,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",5,Lucknow,1.8
+Doc217,Anjali Bobal,Allergist/Immunologist,"Allergy, Drug Reaction",35,Kanpur,3.9
+Doc218,Anita Ramachandran,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",7,Indore,3.2
+Doc219,Yug Buch,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",18,Ahmedabad,1.8
+Doc220,Hema Lata,Urologist,Urinary tract infection,11,Kanpur,3.5
+Doc221,Yahvi Sehgal,Allergist/Immunologist,"Allergy, Drug Reaction",34,Surat,3.4
+Doc222,David Srinivasan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",24,Ahmedabad,4.9
+Doc223,Onkar Kota,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",16,Patna,2.4
+Doc224,Upadhriti Rai,Cardiologist,"Hypertension, Heart attack",29,Kanpur,2.6
+Doc225,Owen Ben,Proctologist,Dimorphic hemorrhoids (piles),19,Bangalore,2.6
+Doc226,Nakul Cheema,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",29,Jaipur,2.3
+Doc227,Wishi Kara,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",20,Indore,4.3
+Doc228,Sanaya Dugar,Proctologist,Dimorphic hemorrhoids (piles),26,Mumbai,3.7
+Doc229,Raagini Ramanathan,Cardiologist,"Hypertension, Heart attack",39,Ahmedabad,5
+Doc230,Balvan Kumer,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",27,Nagpur,4.9
+Doc231,Ishani Keer,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",12,Mumbai,4.7
+Doc232,Baghyawati Ben,Neurologist,"Migraine, Paralysis (brain hemorrhage)",33,Kanpur,1.3
+Doc233,Reyansh Arya,Vascular Surgeon,Varicose veins,7,Hyderabad,2.1
+Doc234,Chatresh Sampath,Proctologist,Dimorphic hemorrhoids (piles),39,Indore,4.5
+Doc235,Rohan Lalla,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",13,Bangalore,2.3
+Doc236,Ikbal Chahal,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",4,Indore,3
+Doc237,Vedant Gala,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",7,Bangalore,3.9
+Doc238,Laban Kurian,Urologist,Urinary tract infection,2,Patna,2.4
+Doc239,Indali Narasimhan,Urologist,Urinary tract infection,8,Delhi,1.2
+Doc240,Indali Palla,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",9,Bhopal,3.4
+Doc241,Anika Baria,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",28,Mumbai,1.3
+Doc242,Veer Modi,Vascular Surgeon,Varicose veins,35,Delhi,4.3
+Doc243,Mahika Bora,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",39,Indore,2.2
+Doc244,Varenya Taneja,Allergist/Immunologist,"Allergy, Drug Reaction",9,Surat,2.9
+Doc245,Udarsh Sekhon,Cardiologist,"Hypertension, Heart attack",25,Pune,3.7
+Doc246,Yashica Mitra,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",22,Ahmedabad,2
+Doc247,Yashodhara Sekhon,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",25,Patna,3.1
+Doc248,Finn Parsa,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",22,Agra,2.1
+Doc249,Charita Kari,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",10,Mumbai,3
+Doc250,Karan Bakshi,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",12,Indore,1.9
+Doc251,Pranav Narayanan,Urologist,Urinary tract infection,10,Agra,2.3
+Doc252,Faras Prasad,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",3,Delhi,3.4
+Doc253,Ekbal Memon,Rheumatologist,Arthritis,19,Pune,3.2
+Doc254,Adweta Cherian,Allergist/Immunologist,"Allergy, Drug Reaction",1,Surat,1.5
+Doc255,Om Peri,Rheumatologist,Arthritis,23,Hyderabad,1.2
+Doc256,Riya Suri,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",17,Bangalore,2.1
+Doc257,Gavin Pai,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",31,Delhi,3.5
+Doc258,Damini Lalla,Rheumatologist,Arthritis,16,Kanpur,1.5
+Doc259,Madhav Om,Rheumatologist,Arthritis,2,Surat,3.5
+Doc260,Gayathri Rai,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",24,Surat,5
+Doc261,Qasim Wable,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",28,Nagpur,3.5
+Doc262,Nihal Tiwari,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",15,Ludhiana,3.7
+Doc263,Isha Ranganathan,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",39,Ahmedabad,1.1
+Doc264,Utkarsh Kadakia,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",12,Kolkata,2.7
+Doc265,Yashawini Rai,Rheumatologist,Arthritis,11,Agra,4.8
+Doc266,Varsha Bahri,Neurologist,"Migraine, Paralysis (brain hemorrhage)",31,Nagpur,2.3
+Doc267,Charan Pradhan,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",9,Surat,3.4
+Doc268,Wyatt Rege,Neurologist,"Migraine, Paralysis (brain hemorrhage)",6,Delhi,2.7
+Doc269,Kiaan Kade,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",25,Hyderabad,4.4
+Doc270,Azad Bali,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",12,Hyderabad,3.3
+Doc271,Vasudha Pingle,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",32,Kanpur,4.4
+Doc272,Aahana Ram,Vascular Surgeon,Varicose veins,23,Agra,2.8
+Doc273,Ethan Bhandari,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",7,Agra,4.9
+Doc274,Lohit Chakraborty,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",33,Kolkata,4.6
+Doc275,Nihal Balakrishnan,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",34,Agra,4.6
+Doc276,Ishwar Choudhury,Neurologist,"Migraine, Paralysis (brain hemorrhage)",3,Delhi,2.4
+Doc277,Bakhshi Srinivasan,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",22,Ahmedabad,4.6
+Doc278,Dhruv Gokhale,Vascular Surgeon,Varicose veins,20,Patna,3.3
+Doc279,Siddharth Devi,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",21,Agra,3.9
+Doc280,Sarthak Toor,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",32,Agra,1.2
+Doc281,Shaurya Seth,Rheumatologist,Arthritis,12,Chennai,1.1
+Doc282,Siddharth Narang,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",21,Nagpur,2.8
+Doc283,Falak Sehgal,Allergist/Immunologist,"Allergy, Drug Reaction",9,Delhi,3.3
+Doc284,Pratyush Cheema,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",27,Lucknow,2.6
+Doc285,Madhav Om,Cardiologist,"Hypertension, Heart attack",12,Kolkata,3.4
+Doc286,Veda Khatri,Urologist,Urinary tract infection,9,Agra,1.8
+Doc287,Veda Dada,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",14,Ahmedabad,3.3
+Doc288,Hritik Rout,Cardiologist,"Hypertension, Heart attack",2,Kanpur,3.3
+Doc289,Vedant Varkey,Proctologist,Dimorphic hemorrhoids (piles),22,Surat,4.7
+Doc290,Ekavir Upadhyay,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",14,Patna,1.5
+Doc291,Theodore Ahluwalia,Urologist,Urinary tract infection,24,Nagpur,2.9
+Doc292,Avi Soni,Proctologist,Dimorphic hemorrhoids (piles),16,Surat,3.4
+Doc293,Ubika Ratta,Proctologist,Dimorphic hemorrhoids (piles),12,Delhi,1.5
+Doc294,Agastya Grover,Proctologist,Dimorphic hemorrhoids (piles),38,Surat,4.7
+Doc295,Darpan De,Urologist,Urinary tract infection,18,Kolkata,4.4
+Doc296,Anika Bhatia,Urologist,Urinary tract infection,20,Bhopal,3.5
+Doc297,Yamini Gole,Allergist/Immunologist,"Allergy, Drug Reaction",31,Bangalore,1.4
+Doc298,Hemal Kaul,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",6,Nagpur,2
+Doc299,Akshay Memon,Vascular Surgeon,Varicose veins,31,Lucknow,4.9
+Doc300,Daksha Shenoy,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",40,Patna,1.9
+Doc301,Ojasvi Mand,Cardiologist,"Hypertension, Heart attack",25,Agra,3.8
+Doc302,Netra Manda,Rheumatologist,Arthritis,14,Bhopal,2.7
+Doc303,Pooja Sahni,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",33,Pune,4.9
+Doc304,Faraj Bandi,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",9,Bhopal,3.9
+Doc305,Nihal Dhingra,Vascular Surgeon,Varicose veins,34,Nagpur,1.3
+Doc306,Aditya Kara,Vascular Surgeon,Varicose veins,9,Patna,1.9
+Doc307,Veer Bumb,Urologist,Urinary tract infection,25,Mumbai,2.2
+Doc308,Vedhika Bhavsar,Rheumatologist,Arthritis,33,Bhopal,1.1
+Doc309,Luke Palan,Vascular Surgeon,Varicose veins,32,Kanpur,2.2
+Doc310,Anika Gara,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",15,Ahmedabad,4.6
+Doc311,Siddharth Nagy,Rheumatologist,Arthritis,21,Bangalore,4.8
+Doc312,Avni Dugar,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",15,Surat,3.3
+Doc313,Hamsini Bajwa,Allergist/Immunologist,"Allergy, Drug Reaction",27,Lucknow,3
+Doc314,Ayushman Chandran,Neurologist,"Migraine, Paralysis (brain hemorrhage)",7,Jaipur,4.9
+Doc315,Lipika Sani,Allergist/Immunologist,"Allergy, Drug Reaction",20,Bhopal,4.2
+Doc316,Victor Gupta,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",17,Bhopal,2.1
+Doc317,Yutika Ramaswamy,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",3,Ludhiana,3
+Doc318,Ganga Taneja,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",39,Ahmedabad,4.7
+Doc319,Gaurangi Bahri,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",22,Kanpur,1.9
+Doc320,Reyansh Hari,Proctologist,Dimorphic hemorrhoids (piles),5,Kolkata,4.4
+Doc321,Wyatt Mallick,Allergist/Immunologist,"Allergy, Drug Reaction",26,Kolkata,4.7
+Doc322,Matthew Lal,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",7,Bangalore,1.8
+Doc323,Ishanvi Konda,Rheumatologist,Arthritis,4,Pune,3.6
+Doc324,Tanay Zacharia,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",37,Ludhiana,3.6
+Doc325,Onveer Bose,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",33,Agra,3.9
+Doc326,Yachana Murthy,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",37,Nagpur,2.6
+Doc327,Kritika Korpal,Vascular Surgeon,Varicose veins,3,Ahmedabad,5
+Doc328,Sneha Narain,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",23,Kolkata,4.9
+Doc329,Brinda Venkataraman,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",29,Bangalore,3.2
+Doc330,Rushil Bir,Cardiologist,"Hypertension, Heart attack",6,Delhi,2.4
+Doc331,Pratyush Wagle,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",8,Patna,2.7
+Doc332,Ikbal Date,Vascular Surgeon,Varicose veins,31,Surat,1.2
+Doc333,Bahadurjit Raja,Neurologist,"Migraine, Paralysis (brain hemorrhage)",20,Indore,4.9
+Doc334,Zinal Dutta,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",25,Patna,1.1
+Doc335,Bachittar Vig,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",6,Agra,4.5
+Doc336,Zilmil Parekh,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",18,Bangalore,2.1
+Doc337,Gabriel Bal,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",31,Pune,3.6
+Doc338,Pratyush Borra,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",2,Bhopal,3.6
+Doc339,Samar Parekh,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",9,Patna,3.6
+Doc340,Shaurya Krishnan,Neurologist,"Migraine, Paralysis (brain hemorrhage)",37,Indore,4.4
+Doc341,Panini Mane,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",21,Hyderabad,1.8
+Doc342,Manbir Seshadri,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",21,Indore,1.4
+Doc343,Tanay Misra,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",38,Patna,1.2
+Doc344,Champak Mistry,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",27,Surat,4.3
+Doc345,Advaith Mohanty,Rheumatologist,Arthritis,4,Agra,2.7
+Doc346,Kai Dhar,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",16,Nagpur,3.9
+Doc347,Ikbal Barad,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",22,Pune,2.9
+Doc348,Ronith Gill,Cardiologist,"Hypertension, Heart attack",21,Bhopal,3.5
+Doc349,Veer Misra,Vascular Surgeon,Varicose veins,7,Pune,4.4
+Doc350,Neha Halder,Rheumatologist,Arthritis,27,Delhi,3.3
+Doc351,Pallavi Saraf,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",17,Kanpur,2.5
+Doc352,Anamika Bahri,Cardiologist,"Hypertension, Heart attack",38,Hyderabad,4.4
+Doc353,Jacob Ahuja,Allergist/Immunologist,"Allergy, Drug Reaction",34,Ahmedabad,1.3
+Doc354,Radha Sem,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",11,Ahmedabad,4.8
+Doc355,Gaurav Wadhwa,Neurologist,"Migraine, Paralysis (brain hemorrhage)",39,Pune,2.8
+Doc356,Avi Garg,Cardiologist,"Hypertension, Heart attack",32,Agra,3.1
+Doc357,Tanay Ravi,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",12,Bangalore,2.2
+Doc358,Samesh Rout,Urologist,Urinary tract infection,19,Ahmedabad,3.4
+Doc359,Peter Baral,Neurologist,"Migraine, Paralysis (brain hemorrhage)",31,Nagpur,1.6
+Doc360,Shivani Kothari,Cardiologist,"Hypertension, Heart attack",21,Hyderabad,4
+Doc361,Gaurika Khatri,Proctologist,Dimorphic hemorrhoids (piles),8,Agra,1.5
+Doc362,Deepa Yohannan,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",35,Hyderabad,4.9
+Doc363,Mahika Seshadri,Proctologist,Dimorphic hemorrhoids (piles),23,Ahmedabad,1.9
+Doc364,Zinal Halder,Allergist/Immunologist,"Allergy, Drug Reaction",35,Patna,2.7
+Doc365,Harita Deshpande,Neurologist,"Migraine, Paralysis (brain hemorrhage)",21,Ludhiana,1.7
+Doc366,Vansha Salvi,Proctologist,Dimorphic hemorrhoids (piles),20,Nagpur,3.7
+Doc367,Yamini Baria,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",29,Kanpur,2.8
+Doc368,Naksh Dora,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",9,Pune,3
+Doc369,Madhav Bava,Proctologist,Dimorphic hemorrhoids (piles),9,Kolkata,2.3
+Doc370,Xiti Bali,Vascular Surgeon,Varicose veins,10,Kolkata,4.4
+Doc371,Gautami Sodhi,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",11,Patna,3.1
+Doc372,Qasim Narayan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",2,Pune,1.4
+Doc373,Om Maharaj,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",14,Patna,3.3
+Doc374,Chatresh Bhatia,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",32,Jaipur,2.5
+Doc375,Netra Misra,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",36,Chennai,1.6
+Doc376,Dalbir Virk,Vascular Surgeon,Varicose veins,27,Bhopal,3.8
+Doc377,Adya Hegde,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",16,Nagpur,4.6
+Doc378,Kashish Sandal,Allergist/Immunologist,"Allergy, Drug Reaction",17,Delhi,2.9
+Doc379,Vasatika Gokhale,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",34,Patna,2.7
+Doc380,Reva Thaman,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",10,Indore,1.6
+Doc381,Darika Iyengar,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",13,Indore,2.9
+Doc382,Laban Dewan,Cardiologist,"Hypertension, Heart attack",13,Pune,2.4
+Doc383,Frado Mahal,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",34,Indore,4
+Doc384,Neelima Grover,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",6,Agra,2
+Doc385,Anmol Bains,Allergist/Immunologist,"Allergy, Drug Reaction",38,Bhopal,1.5
+Doc386,Ishani Ramanathan,Neurologist,"Migraine, Paralysis (brain hemorrhage)",3,Indore,2
+Doc387,Jackson Jhaveri,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",34,Kanpur,4.5
+Doc388,Arunima Bandi,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",26,Chennai,3.2
+Doc389,Pranav Chokshi,Rheumatologist,Arthritis,13,Lucknow,1.6
+Doc390,Onkar Sawhney,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",3,Agra,4.8
+Doc391,Avni Sharma,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",1,Bangalore,4.9
+Doc392,Shivani Sehgal,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",37,Indore,3.7
+Doc393,Ojas Buch,Rheumatologist,Arthritis,33,Indore,2.5
+Doc394,Anusha Mutti,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",12,Ahmedabad,1.2
+Doc395,Wakeeta Bhasin,Cardiologist,"Hypertension, Heart attack",9,Patna,2.1
+Doc396,Bachittar Andra,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",26,Lucknow,2.2
+Doc397,Laban Randhawa,Rheumatologist,Arthritis,40,Jaipur,2.6
+Doc398,Kamya Venkataraman,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",15,Chennai,3.3
+Doc399,Yatan Kar,Proctologist,Dimorphic hemorrhoids (piles),20,Hyderabad,3.9
+Doc400,Ekta Bhandari,Rheumatologist,Arthritis,20,Patna,3.4
+Doc401,Bahadurjit Buch,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",5,Kanpur,4.2
+Doc402,Hemang Handa,Rheumatologist,Arthritis,27,Indore,2.7
+Doc403,Hemang Vasa,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",24,Ludhiana,3.9
+Doc404,Dayita Dora,Neurologist,"Migraine, Paralysis (brain hemorrhage)",35,Kanpur,4.1
+Doc405,Chatresh Karpe,Neurologist,"Migraine, Paralysis (brain hemorrhage)",10,Chennai,1.5
+Doc406,Udyati Arya,Urologist,Urinary tract infection,30,Jaipur,1.7
+Doc407,Parth Hayre,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",23,Jaipur,4
+Doc408,Amruta Goyal,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",28,Jaipur,3.4
+Doc409,Triveni Kata,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",12,Pune,1.8
+Doc410,Isaac Raval,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",37,Jaipur,2.6
+Doc411,Parth Bhandari,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",13,Indore,3
+Doc412,Tamanna Hora,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",11,Indore,3.5
+Doc413,Janya Oak,Rheumatologist,Arthritis,28,Mumbai,3.8
+Doc414,Aarnav Yohannan,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",1,Mumbai,4.7
+Doc415,Anita Sundaram,Proctologist,Dimorphic hemorrhoids (piles),3,Nagpur,3.7
+Doc416,Janya Prabhakar,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",6,Indore,3.8
+Doc417,Warinder Rajan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",13,Ludhiana,2.4
+Doc418,Zaid Kalla,Allergist/Immunologist,"Allergy, Drug Reaction",28,Jaipur,1
+Doc419,Mohini Chahal,Urologist,Urinary tract infection,9,Indore,1.3
+Doc420,Noah Ravel,Rheumatologist,Arthritis,3,Kanpur,1.6
+Doc421,Anamika Raj,Allergist/Immunologist,"Allergy, Drug Reaction",5,Kolkata,3
+Doc422,Umang Varughese,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",26,Nagpur,2.9
+Doc423,Arunima Bhatti,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",15,Nagpur,4.2
+Doc424,Omkaar Raval,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",2,Bhopal,4.8
+Doc425,Aryan Krish,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",10,Pune,1.8
+Doc426,Chakrika Thakur,Allergist/Immunologist,"Allergy, Drug Reaction",27,Lucknow,1
+Doc427,Nirja Bhasin,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",7,Ahmedabad,1.1
+Doc428,Yahvi Saini,Rheumatologist,Arthritis,39,Hyderabad,3.3
+Doc429,Gaurav Mital,Cardiologist,"Hypertension, Heart attack",27,Patna,2.1
+Doc430,Tarak Chawla,Neurologist,"Migraine, Paralysis (brain hemorrhage)",30,Surat,3.6
+Doc431,Gabriel Sankar,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",40,Mumbai,3.5
+Doc432,Chaitaly Badami,Neurologist,"Migraine, Paralysis (brain hemorrhage)",29,Mumbai,1.8
+Doc433,Anusha Savant,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",9,Delhi,1.2
+Doc434,Inaya Pandya,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",7,Patna,3.9
+Doc435,Avi Kakar,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",21,Hyderabad,3.4
+Doc436,Ucchal Chowdhury,Urologist,Urinary tract infection,10,Hyderabad,4.9
+Doc437,Yochana Chand,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",4,Ludhiana,4.6
+Doc438,Dayamai Ganesh,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",6,Delhi,1.8
+Doc439,Urishilla Walia,Urologist,Urinary tract infection,11,Bhopal,4.9
+Doc440,Yashoda Dora,Urologist,Urinary tract infection,29,Patna,1.4
+Doc441,Tristan Tara,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",3,Bhopal,3.6
+Doc442,Eta Thaman,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",8,Surat,1.3
+Doc443,Manya Buch,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",29,Lucknow,2.7
+Doc444,Ati Narain,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",24,Delhi,3.7
+Doc445,Shivansh Jaggi,Proctologist,Dimorphic hemorrhoids (piles),18,Ludhiana,1.1
+Doc446,Ayush Chander,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",36,Indore,4.8
+Doc447,Henry Panchal,Neurologist,"Migraine, Paralysis (brain hemorrhage)",16,Jaipur,4.5
+Doc448,Vedhika Bala,Cardiologist,"Hypertension, Heart attack",27,Jaipur,2.6
+Doc449,Rohan Deshpande,Proctologist,Dimorphic hemorrhoids (piles),22,Pune,4.7
+Doc450,Ranbir More,Allergist/Immunologist,"Allergy, Drug Reaction",40,Patna,3
+Doc451,Ekansh Sundaram,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",6,Ahmedabad,3.6
+Doc452,Chaitaly Sridhar,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",4,Ahmedabad,1.5
+Doc453,Nihal Pathak,Cardiologist,"Hypertension, Heart attack",33,Nagpur,1.7
+Doc454,Dhruv Raghavan,Neurologist,"Migraine, Paralysis (brain hemorrhage)",9,Nagpur,3.2
+Doc455,Dev Trivedi,Urologist,Urinary tract infection,28,Ahmedabad,2.1
+Doc456,Azad Bandi,Rheumatologist,Arthritis,23,Agra,1.9
+Doc457,Yug Thaman,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",31,Ludhiana,2.5
+Doc458,Radha Saini,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",17,Hyderabad,2.2
+Doc459,Rachana Gopal,Proctologist,Dimorphic hemorrhoids (piles),34,Chennai,4.3
+Doc460,Oscar Edwin,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",18,Ludhiana,2.8
+Doc461,Daksha Prashad,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",28,Chennai,5
+Doc462,Theodore Parmer,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",13,Ludhiana,3.6
+Doc463,Vedika Badami,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",28,Nagpur,3.8
+Doc464,Nidra Prashad,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",28,Surat,3.4
+Doc465,Yamini Kibe,Allergist/Immunologist,"Allergy, Drug Reaction",22,Ahmedabad,3.8
+Doc466,Bachittar Pradhan,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",38,Chennai,4.8
+Doc467,Ria Hans,Cardiologist,"Hypertension, Heart attack",13,Mumbai,1.2
+Doc468,Vincent Mohanty,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",35,Ludhiana,4
+Doc469,Janya Kaul,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",13,Indore,3.1
+Doc470,Anvi Ghose,Vascular Surgeon,Varicose veins,24,Agra,4.6
+Doc471,Aahana Dewan,Neurologist,"Migraine, Paralysis (brain hemorrhage)",12,Surat,4.5
+Doc472,Neel Badal,Vascular Surgeon,Varicose veins,17,Bangalore,1.9
+Doc473,Kavya Shere,Urologist,Urinary tract infection,31,Ahmedabad,4.2
+Doc474,Kai Bath,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",26,Surat,2.9
+Doc475,Devansh Randhawa,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",37,Nagpur,1.4
+Doc476,Kashvi Konda,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",29,Jaipur,3.5
+Doc477,Wyatt Kapur,Cardiologist,"Hypertension, Heart attack",27,Bhopal,4.1
+Doc478,Kavya Srinivas,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",27,Nagpur,1.7
+Doc479,Idika Tata,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",26,Mumbai,4.5
+Doc480,Falguni Mahajan,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",25,Hyderabad,4
+Doc481,Jatin Srivastava,Neurologist,"Migraine, Paralysis (brain hemorrhage)",23,Patna,4.6
+Doc482,Watika Wadhwa,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",14,Patna,1.4
+Doc483,Ekta Pandey,Neurologist,"Migraine, Paralysis (brain hemorrhage)",24,Kanpur,3.2
+Doc484,Ijaya Balan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",33,Hyderabad,2.3
+Doc485,Fariq Chaudhary,Proctologist,Dimorphic hemorrhoids (piles),37,Nagpur,3.5
+Doc486,Zayyan Tak,Allergist/Immunologist,"Allergy, Drug Reaction",37,Delhi,2.5
+Doc487,Lakshit Pillai,Cardiologist,"Hypertension, Heart attack",38,Mumbai,4
+Doc488,Wishi Iyer,Urologist,Urinary tract infection,18,Ludhiana,3.8
+Doc489,Vivaan Bakshi,Urologist,Urinary tract infection,5,Agra,2.3
+Doc490,Lavanya Saini,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",15,Mumbai,2.7
+Doc491,Deepa Ramanathan,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",13,Kanpur,2.4
+Doc492,Mekhala Brahmbhatt,Urologist,Urinary tract infection,18,Surat,4.9
+Doc493,Eshana Dhar,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",20,Agra,1.1
+Doc494,Nisha Iyengar,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",17,Hyderabad,3.7
+Doc495,Vasudha Contractor,Rheumatologist,Arthritis,33,Ludhiana,4.5
+Doc496,Zaid Saxena,Proctologist,Dimorphic hemorrhoids (piles),34,Chennai,4
+Doc497,Ishanvi Salvi,Cardiologist,"Hypertension, Heart attack",15,Ahmedabad,4.5
+Doc498,Ayush Parmar,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",26,Jaipur,1.4
+Doc499,Avni Kala,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",7,Indore,3.4
+Doc500,Barkha Behl,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",4,Jaipur,2
+Doc501,Chaitaly Srinivasan,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",34,Kanpur,1.7
+Doc502,Hema Dayal,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",26,Mumbai,2.4
+Doc503,George Sarkar,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",3,Mumbai,4.9
+Doc504,Nicholas Grewal,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",31,Ahmedabad,4.4
+Doc505,Finn Shere,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",16,Bhopal,4.6
+Doc506,Advay Agarwal,Neurologist,"Migraine, Paralysis (brain hemorrhage)",36,Lucknow,3.5
+Doc507,Logan Sundaram,Vascular Surgeon,Varicose veins,24,Lucknow,1.6
+Doc508,Peter Nagarajan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",25,Ahmedabad,3.3
+Doc509,Logan Mukherjee,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",21,Ahmedabad,2.2
+Doc510,Panini Kumar,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",38,Surat,3.4
+Doc511,Abdul Verma,Vascular Surgeon,Varicose veins,13,Indore,2.4
+Doc512,Nikita Tiwari,Cardiologist,"Hypertension, Heart attack",15,Surat,2.3
+Doc513,Mason Mahajan,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",14,Ludhiana,1.6
+Doc514,Advik Rajagopal,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",29,Chennai,1.5
+Doc515,Watika Raman,Allergist/Immunologist,"Allergy, Drug Reaction",39,Chennai,4.8
+Doc516,Janya Krishnamurthy,Neurologist,"Migraine, Paralysis (brain hemorrhage)",31,Delhi,1.3
+Doc517,Vihaan Guha,Cardiologist,"Hypertension, Heart attack",29,Bhopal,2.1
+Doc518,Azaan Padmanabhan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",27,Lucknow,4.1
+Doc519,Sudiksha Sarma,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",17,Mumbai,3.9
+Doc520,Dev Sekhon,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",32,Pune,1.3
+Doc521,Bhavna Choudhary,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",23,Surat,3.4
+Doc522,Banjeet Gour,Urologist,Urinary tract infection,21,Surat,4.7
+Doc523,Aarush Ben,Cardiologist,"Hypertension, Heart attack",14,Nagpur,4.6
+Doc524,Saanvi Zacharia,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",6,Kolkata,1.8
+Doc525,Krishna Saraf,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",7,Nagpur,2.4
+Doc526,Zinal Divan,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",2,Delhi,1.6
+Doc527,Eiravati Bansal,Proctologist,Dimorphic hemorrhoids (piles),3,Delhi,4.9
+Doc528,Simon Suri,Proctologist,Dimorphic hemorrhoids (piles),8,Agra,3.5
+Doc529,Yashasvi Madan,Vascular Surgeon,Varicose veins,8,Lucknow,2.8
+Doc530,Kabir Zacharia,Vascular Surgeon,Varicose veins,6,Kanpur,2.8
+Doc531,Ekapad Vaidya,Neurologist,"Migraine, Paralysis (brain hemorrhage)",38,Ludhiana,3.6
+Doc532,Sachi Mandal,Vascular Surgeon,Varicose veins,10,Pune,1.2
+Doc533,Darsh Pillai,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",22,Bhopal,1.9
+Doc534,Qabil Balasubramanian,Cardiologist,"Hypertension, Heart attack",29,Ahmedabad,2.5
+Doc535,Abhimanyu Jhaveri,Cardiologist,"Hypertension, Heart attack",6,Hyderabad,2
+Doc536,Ranbir Patla,Urologist,Urinary tract infection,28,Mumbai,2.9
+Doc537,Faras Manda,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",12,Surat,4.2
+Doc538,Pooja Kari,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",34,Hyderabad,3.9
+Doc539,Theodore Vaidya,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",33,Kolkata,2.8
+Doc540,Priya Wali,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",23,Pune,2.9
+Doc541,Geetika Bahl,Proctologist,Dimorphic hemorrhoids (piles),11,Kolkata,4.1
+Doc542,Sanya Murthy,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",30,Lucknow,2.6
+Doc543,Vrishti Deol,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",2,Lucknow,1.8
+Doc544,Nirja Rajagopal,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",33,Chennai,2.6
+Doc545,Ekavir Bali,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",36,Kanpur,3.9
+Doc546,Harrison Mahajan,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",19,Surat,2.2
+Doc547,Deepa Pant,Cardiologist,"Hypertension, Heart attack",1,Delhi,4.4
+Doc548,William Lanka,Rheumatologist,Arthritis,7,Ludhiana,4
+Doc549,Udant Magar,Dermatologist,"Fungal infection, Acne, Psoriasis, Impetigo",22,Ahmedabad,1.6
+Doc550,Chatresh Nadkarni,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",4,Nagpur,1.8
+Doc551,Mohini Char,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",32,Ludhiana,2
+Doc552,Nihal Prakash,Cardiologist,"Hypertension, Heart attack",7,Pune,4.6
+Doc553,Pranit Sarin,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",29,Ludhiana,2.7
+Doc554,Guneet Mitter,Rheumatologist,Arthritis,27,Kanpur,3.5
+Doc555,Netra Khurana,Urologist,Urinary tract infection,21,Chennai,2.2
+Doc556,Daniel Raju,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",14,Delhi,2.3
+Doc557,Anvi Lad,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",10,Kolkata,1.4
+Doc558,Oscar Srinivas,Allergist/Immunologist,"Allergy, Drug Reaction",4,Delhi,1.4
+Doc559,Yoshita Dube,Allergist/Immunologist,"Allergy, Drug Reaction",5,Pune,2
+Doc560,Frado Muni,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",26,Bangalore,1.1
+Doc561,Siddharth Raja,Allergist/Immunologist,"Allergy, Drug Reaction",25,Jaipur,1.4
+Doc562,Ekanta Rana,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",15,Kolkata,4.5
+Doc563,Madhavi Minhas,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",19,Delhi,1.4
+Doc564,Timothy Goswami,Cardiologist,"Hypertension, Heart attack",40,Patna,2.9
+Doc565,Kritika Ganguly,Cardiologist,"Hypertension, Heart attack",34,Bhopal,3.3
+Doc566,Januja Narula,Neurologist,"Migraine, Paralysis (brain hemorrhage)",8,Kolkata,4.3
+Doc567,Aadhya Lala,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",19,Lucknow,3.5
+Doc568,Girindra Parekh,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",10,Indore,3.6
+Doc569,Tamanna Chacko,Urologist,Urinary tract infection,8,Indore,1.8
+Doc570,Vedhika Mohanty,Rheumatologist,Arthritis,14,Nagpur,2.1
+Doc571,Idika Kurian,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",3,Bhopal,1.9
+Doc572,Anamika Prabhu,Proctologist,Dimorphic hemorrhoids (piles),38,Chennai,2.3
+Doc573,Gayathri Ramesh,Vascular Surgeon,Varicose veins,13,Hyderabad,2
+Doc574,Vivaan Deshpande,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",5,Hyderabad,1.5
+Doc575,Harita Kaul,Allergist/Immunologist,"Allergy, Drug Reaction",1,Surat,1.9
+Doc576,Daksha Kapur,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",36,Mumbai,3
+Doc577,Neelima Natarajan,Rheumatologist,Arthritis,27,Pune,1.5
+Doc578,Siddharth Majumdar,Cardiologist,"Hypertension, Heart attack",1,Indore,3.8
+Doc579,Falan Dubey,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",18,Kolkata,1.8
+Doc580,Pranit Joshi,Neurologist,"Migraine, Paralysis (brain hemorrhage)",2,Ludhiana,2.7
+Doc581,Hemang Mohan,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",31,Bhopal,2.7
+Doc582,Rohan Virk,Urologist,Urinary tract infection,40,Patna,1.5
+Doc583,Anmol Saini,ENT Specialist,"Common Cold, (vertigo) Paroxysmal Positional Vertigo",15,Jaipur,1.9
+Doc584,Warjas Cheema,Proctologist,Dimorphic hemorrhoids (piles),14,Bhopal,1.9
+Doc585,Abdul Bahl,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",38,Kanpur,1.5
+Doc586,Atharv Dora,Gastroenterologist,"GERD, Peptic ulcer disease, Gastroenteritis",5,Kanpur,3.4
+Doc587,Meera Oak,Neurologist,"Migraine, Paralysis (brain hemorrhage)",2,Hyderabad,4.4
+Doc588,Lopa Vala,Neurologist,"Migraine, Paralysis (brain hemorrhage)",25,Indore,3.4
+Doc589,Yahvi Bhardwaj,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",29,Delhi,2.6
+Doc590,Lekha Sodhi,Rheumatologist,Arthritis,10,Kanpur,2.9
+Doc591,Oni Sahni,Orthopedic Specialist,"Cervical spondylosis, Osteoarthritis",18,Pune,1.8
+Doc592,Aarnav Nagi,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",6,Kanpur,3.4
+Doc593,Hemangini Shere,Endocrinologist,"Diabetes, Hypothyroidism, Hyperthyroidism, Hypoglycemia",14,Chennai,3.3
+Doc594,Tara Khosla,Hepatologist,"Chronic cholestasis, Jaundice, hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Alcoholic hepatitis",14,Nagpur,5
+Doc595,Idika Pall,Urologist,Urinary tract infection,36,Bangalore,1.8
+Doc596,Ubika Luthra,Infectious Disease Specialist,"AIDS, Malaria, Chicken pox, Dengue, Typhoid",10,Hyderabad,3.2
+Doc597,Bahadurjit Brar,Pulmonologist,"Bronchial Asthma, Tuberculosis, Pneumonia",26,Ahmedabad,2.1
+Doc598,Viraj Dora,Vascular Surgeon,Varicose veins,13,Nagpur,2.6
+Doc599,Ladli Chad,Vascular Surgeon,Varicose veins,13,Bangalore,4.4
+Doc600,Nicholas Shroff,Urologist,Urinary tract infection,24,Nagpur,2.7
