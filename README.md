@@ -4,23 +4,34 @@
 The Medical AI Recommendation System is designed to predict diseases based on user-input symptoms and recommend appropriate doctors based on the predicted diseases. This project utilizes machine learning and natural language processing techniques to provide an efficient solution for healthcare recommendations.
 
 ## Team Members
-- **Member 1**: Arinjoy Roy Choudhury  
+- **Member 1 & 2**: Arinjoy Roy Choudhury & Arindam Pal
   *Role*: Develop the NLP model for predicting diseases.
-  
-- **Member 2**: Arindam Pal  
   *Role*: Develop the algorithm to suggest doctors according to the predicted disease.
-  
+
 - **Member 3**: Aritra Naskar  
-  *Role*: Collect data and clean it for model training.
+  *Role*: Collect data and clean it for model training & Assist All other members.
   
-- **Member 4**: Soumyadip Adak  
+- **Member 4 & 5**: Soumyadip Adak & Srijan Roy  
   *Role*: Develop the user interface for the application.
-  
-- **Member 5**: Srijan Roy  
   *Role*: Assist Member 4 and handle the frontend and backend integration tasks.
 
 ## Project Structure
-medical-ai-recommendation/ │ ├── recommendation/ │ ├── Model/ │ │ ├── Doctor_data_with_diseases.csv │ │ ├── Suggest_doctor_algo.py │ │ ├── integrate_algo_model.py │ │ ├── svc.pkl │ │ └── Training_in_notebook.ipynb │ └── Requirement.txt │ ├── UI/ │ ├── index.html │ ├── script.js │ └── style.css │ └── README.md
+doctor_recommendation_system/
+│
+├── model/
+│   ├── svc.pkl                     # Trained SVC model                  
+│
+├── templates/
+│   └── index.html                  # HTML template for user interface
+│
+├── data/
+│   └── Doctor_data_with_diseases.csv # Dataset containing doctor information
+│
+├── app.py                          # Main Flask application file
+│
+├── requirements.txt                # File containing project dependencies
+│
+└── README.md                       # (Optional) Documentation about the project
 
 
 ## Installation
