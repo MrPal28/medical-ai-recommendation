@@ -1,6 +1,6 @@
 # Medical AI Recommendation System
 ## Screenshots
-![Screenshot of the project](https://raw.githubusercontent.com/MrPal28/medical-ai-recommendation/main/images/image.png)
+![Screenshot of the project](.images/image.png)
 
 
 ## Project Overview
