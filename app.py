@@ -102,7 +102,9 @@ def index():
             return render_template('index.html', messages=[suggested_doctors])
         else:
             return render_template(
-                'index.html', predicted_disease=predicted_disease, doctors=suggested_doctors.to_dict(orient='records')
+                'index.html',
+                predicted_disease=predicted_disease,
+                doctors=suggested_doctors.to_dict(orient='records')
             )
 
     return render_template('index.html')
