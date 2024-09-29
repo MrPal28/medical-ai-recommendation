@@ -1,5 +1,7 @@
 # Medical AI Recommendation System
 ## Screenshots
+![Screenshot of the project](https://raw.githubusercontent.com/MrPal28/medical-ai-recommendation/main/images/image.png)
+
 
 ## Project Overview
 The Medical AI Recommendation System is designed to predict diseases based on user-input symptoms and recommend appropriate doctors based on the predicted diseases. This project utilizes machine learning and natural language processing techniques to provide an efficient solution for healthcare recommendations.
