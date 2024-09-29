@@ -114,7 +114,9 @@
     <h3>Recommended Doctors:</h3>
     <ul>
         {% for doctor in doctors %}
-        <li>{{ doctor['Name'] }} - Experience: {{ doctor['Experience'] }} years, Rating: {{ doctor['Rating'] }}/5</li>
+        <li>{{ doctor['Name'] }} - Experience: {{ doctor['Experience'] }} years, Rating: {{ doctor['Rating'] }}/5,
+            Location:{{doctor['Location']}}
+        </li>
         {% endfor %}
     </ul>
     {% endif %}
