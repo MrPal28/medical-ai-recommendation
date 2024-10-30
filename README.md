@@ -18,23 +18,7 @@ The Medical AI Recommendation System is designed to predict diseases based on us
   *Role*: Develop the user interface for the application.
   *Role*: Assist Member 4 and handle the frontend and backend integration tasks.
 
-## Project Structure
-doctor_recommendation_system/
-│
-├── model/
-│   ├── svc.pkl                     # Trained SVC model                  
-│
-├── templates/
-│   └── index.html                  # HTML template for user interface
-│
-├── data/
-│   └── Doctor_data_with_diseases.csv # Dataset containing doctor information
-│
-├── app.py                          # Main Flask application file
-│
-├── requirements.txt                # File containing project dependencies
-│
-└── README.md                       # (Optional) Documentation about the project
+
 
 
 ## Installation
